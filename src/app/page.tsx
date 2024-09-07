@@ -21,7 +21,6 @@ export default function Home() {
 
       <Text size="sm">Your review</Text>
       <Textarea
-      size="md"
       inputSize="xs"
       placeholder="Do you enjoy eating?"
       rows={3}
