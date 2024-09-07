@@ -24,6 +24,7 @@ export default function Home() {
       size="md"
       inputSize="xs"
       placeholder="Do you enjoy eating?"
+      rows={3}
       />
 
       <Button mt='xs' color="orange">Submit Review</Button>
